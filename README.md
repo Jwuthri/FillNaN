@@ -60,3 +60,9 @@ Filling NaN thanks to a KNN approach, we get a score of:
 0.973
 Filling NaN thanks to a mean approach, we get a score of:
 0.847
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
