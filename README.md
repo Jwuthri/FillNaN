@@ -20,10 +20,3 @@ df_filled = fn.fill()
 | 7 | 130298.13 | 130298.130000 | 130298.130000 | 130298.130000 |
 | 8 | 120542.52 | 120542.520000 | 120542.520000 | 120542.520000 |
 | 9 | 123334.88 | 123334.880000 | 123334.880000 | 123334.880000 |
-
-=================
-
-Filling NaN thanks to a KNN approach, we get a score of:
-0.973
-Filling NaN thanks to a mean approach, we get a score of:
-0.847
