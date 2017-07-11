@@ -61,8 +61,15 @@ Filling NaN thanks to a KNN approach, we get a score of:
 Filling NaN thanks to a mean approach, we get a score of:
 0.847
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| Index   |      Data      |
+|----------|:-------------:|
+| 0 | 149305.370000 | 
+| 1 | 162597.700000 | 
+| 2 | 153441.510000 | 
+| 3 | 144372.410000 | 
+| 4 | 149305.370000 | 
+| 5 | 131876.900000 | 
+| 6 | 107403.635714 | 
+| 7 | 130298.130000 | 
+| 8 | 120542.520000 | 
+| 9 | 123334.880000 | 
