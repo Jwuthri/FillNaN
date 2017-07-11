@@ -7,6 +7,8 @@ fn = FillNaN(filepath).fill()
 
 # Results ?
 
+It's just a head of the top 10 dataframe's values.
+
 | Index | Real Data | Missing Data | Filled Mean | Filled Cluster |
 |----------|:-------------:|:-------------:|:-------------:|-------------:|
 | 0 | 165349.20 | NaN | 73419.698372 | 149305.370000 | 
